@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YT Downloader</string>
+
+    <string name="tab_downloads">Descargas</string>
+    <string name="tab_settings">Ajustes</string>
+
+    <string name="hint_paste_url">Pegar enlace (YouTube, vídeo o playlist…)</string>
+    <string name="button_analyze">Analizar</string>
+    <string name="empty_downloads">Todavía no hay descargas.\nComparte un vídeo desde YouTube o pega un enlace arriba.</string>
+
+    <string name="playlist">Playlist</string>
+    <string name="format">Formato</string>
+    <string name="format_video">Vídeo</string>
+    <string name="format_audio">Audio</string>
+    <string name="resolution">Resolución</string>
+    <string name="audio_quality">Calidad de audio</string>
+    <string name="subtitles">Descargar subtítulos</string>
+    <string name="subtitles_summary">Escribe los subtítulos manuales y automáticos junto al vídeo</string>
+    <string name="download_playlist">Descargar toda la playlist</string>
+    <string name="download_playlist_summary">%1$s videos en la lista</string>
+    <string name="button_download">Descargar</string>
+
+    <string name="quality_best">Mejor disponible</string>
+    <string name="res_auto">Automática</string>
+    <string name="res_2160">2160p (4K)</string>
+    <string name="res_1440">1440p (2K)</string>
+    <string name="res_1080">1080p (Full HD)</string>
+    <string name="res_720">720p (HD)</string>
+    <string name="res_480">480p</string>
+    <string name="res_360">360p</string>
+    <string name="res_240">240p</string>
+    <string name="res_144">144p</string>
+    <string name="res_value">%1$dp</string>
+    <string name="audio_best">Mejor calidad</string>
+    <string name="audio_320">320 kbps</string>
+    <string name="audio_192">192 kbps</string>
+    <string name="audio_128">128 kbps</string>
+
+    <string name="loading_info">Obteniendo información…</string>
+    <string name="info_error">No se pudo obtener la información de este enlace.</string>
+    <string name="download_started">Descarga iniciada</string>
+    <string name="parse_error">No se reconoció el enlace. Asegúrate de que contiene un vídeo o una playlist.</string>
+
+    <string name="settings_format">Formato predeterminado</string>
+    <string name="settings_resolution">Resolución predeterminada</string>
+    <string name="settings_audio_quality">Calidad de audio predeterminada</string>
+    <string name="settings_subtitles">Descargar subtítulos por defecto</string>
+    <string name="settings_concurrent">Descargas simultáneas</string>
+    <string name="settings_concurrent_value">%1$d a la vez</string>
+    <string name="settings_concurrent_dialog">¿Cuántas descargas a la vez?</string>
+    <string name="settings_folder">Carpeta de descargas</string>
+    <string name="settings_folder_default">Carpeta de la app (predeterminada)</string>
+    <string name="folder_change">Elegir otra carpeta</string>
+    <string name="folder_reset">Volver a la carpeta de la app</string>
+    <string name="settings_about">Acerca de</string>
+    <string name="settings_about_value">YT Downloader v1.0\nBasado en yt-dlp</string>
+
+    <string name="status_queued">En cola</string>
+    <string name="status_downloading">Descargando…</string>
+    <string name="status_paused">Pausada</string>
+    <string name="status_no_connection">Sin conexión</string>
+    <string name="status_done">Completado</string>
+    <string name="status_error">Error</string>
+    <string name="status_canceled">Cancelado</string>
+
+    <string name="action_open">Abrir</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_retry">Reintentar</string>
+    <string name="action_pause">Pausar</string>
+    <string name="action_resume">Reanudar</string>
+    <string name="action_cancel">Cancelar descarga</string>
+    <string name="delete_confirm_title">Eliminar descarga</string>
+    <string name="delete_confirm_message">¿Eliminar este elemento de la lista y borrar sus archivos?</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="notification_channel">Descargas</string>
+    <string name="notification_title">Descargando…</string>
+    <string name="notification_done">Descarga completada</string>
+    <string name="notification_failed">La descarga falló</string>
+    <string name="notification_canceled">Descarga cancelada</string>
+    <string name="notification_paused">Descarga pausada</string>
+    <string name="notification_paused_network">Sin conexión: descarga pausada</string>
+    <string name="notification_cancel">Cancelar</string>
+
+    <string name="choose_file">Archivo de descarga</string>
+
+    <string name="notif_permission_warning">Para ver el progreso de las descargas activa las notificaciones.</string>
+</resources>

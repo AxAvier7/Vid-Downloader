@@ -1,0 +1,12 @@
+*.iml
+.gradle/
+.idea/
+.kotlin/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Exportación local de la sesión de OpenCode (no forma parte del proyecto)
+app-android-para-descargar-videos-de-youtube.json

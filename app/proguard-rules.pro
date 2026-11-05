@@ -1,0 +1,4 @@
+-keep class com.yausername.** { *; }
+-dontwarn com.yausername.**
+-keep class com.fasterxml.jackson.** { *; }
+-dontwarn org.apache.**
