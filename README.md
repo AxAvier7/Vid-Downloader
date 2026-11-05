@@ -23,8 +23,7 @@ así que **no hace falta instalar nada aparte**.
 
 Descarga el APK desde la sección [Releases](../../releases):
 
-- `Vid-Downloader-*-arm64-v8a.apk`: para prácticamente cualquier móvil actual (recomendado).
-- `Vid-Downloader-*-universal.apk`: incluye todas las arquitecturas.
+- `Vid-Downloader-*-arm64-v8a.apk`: para prácticamente cualquier móvil actual.
 
 Los APK están firmados con la clave de depuración de Android, por lo que hay que
 permitir la instalación desde orígenes desconocidos.
